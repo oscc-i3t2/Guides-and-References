@@ -18,6 +18,9 @@ This Repo exists as a Guide for Tinkering and Hacking your way through your Deve
 ## C/C++
 - [Awesome things done with C++](https://github.com/fffaraz/awesome-cpp#standard-libraries)
 
+## Java
+- [Java:The Complete Reference by Herbert Schildt](https://github.com/hloong/Java-The-Complete-Reference-Ninth-Edition-SourceCode)
+
 ## Algorithms
 - [CLRS Book on GitHub](https://github.com/CodeClub-JU/Introduction-to-Algorithms-CLRS)
 
