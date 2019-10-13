@@ -1,5 +1,15 @@
 # Guides-and-References
-Guides for Tinkering and Hacking your way through your Development life
+This Repo exists as a Guide for Tinkering and Hacking your way through your Development life.
+
+# Thinking how to contribute??
+
+--Fork it
+
+--Add Program to respective folder in language of your choice
+
+--Create a Pull Request(PR)
+
+--We'll analyse and merge your PR.
 
 ## Python
 - [Python Learning path](https://realpython.com/learning-paths/)
