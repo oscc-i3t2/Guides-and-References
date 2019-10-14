@@ -10,6 +10,8 @@ This Repo exists as a Guide for Tinkering and Hacking your way through your Deve
 --Create a Pull Request(PR)
 
 --We'll analyse and merge your PR.
+## Open Source Contribution
+- [First PR projects for beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Python
 - [Python Learning path](https://realpython.com/learning-paths/)
